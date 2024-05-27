@@ -36,7 +36,7 @@ streamlit hello #Validar instalación
 ```
 3. Instalar requerimientos. Dentro del mismo se encuentra streamlit y psutils (necesario para una de las apps). Como contiene streamlit, se puede obviar el paso 2.
 ```shell
-pip install -r requirements.txt
+pip install -r requirements-test.txt
 ```
 
 Streamlit requiere Python 3.8+.
