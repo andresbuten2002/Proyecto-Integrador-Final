@@ -8,7 +8,7 @@ RUN apt-get update -y
 RUN apt-get install python3-pip -y
 
 # Copiar el archivo requirements.txt
-COPY requirements.txt /app/
+COPY requirements-test.txt /app/
 
 # Instalar paquetes Python desde el archivo requirements.txt
 RUN pip3 install --no-cache-dir -r requirements-test.txt
