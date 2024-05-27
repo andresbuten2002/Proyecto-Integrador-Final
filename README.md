@@ -1,8 +1,6 @@
 
 # Python Project Template
 
-A low dependency and really simple to start project template for Python Projects.
-
 Streamlit es un marco de desarrollo de código abierto que permite crear aplicaciones web interactivas utilizando solo Python. Es especialmente popular en el campo de la ciencia de datos y el aprendizaje automático debido a su facilidad de uso y su capacidad para crear aplicaciones web rápidamente sin tener que escribir código HTML, CSS o JavaScript.
 
 Streamlit proporciona una amplia variedad de widgets interactivos que los usuarios pueden usar para crear interfaces de usuario intuitivas y atractivas. Estos widgets incluyen controles deslizantes, botones, cuadros de texto y más, que permiten a los usuarios interactuar con los datos y ajustar los parámetros de la aplicación en tiempo real.
