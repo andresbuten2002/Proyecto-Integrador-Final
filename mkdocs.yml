@@ -1,2 +1,8 @@
-site_name: proyecto_integrador_final
+site_name: Proyecto Integrador Final
+nav:
+  - Home: index.md
+  - Instalación: instalacion.md
+  - Creación Entorno Virtual: crear_venv.md
+  - Uso: uso.md
+  - Desarrollo: desarrollo.md
 theme: readthedocs
